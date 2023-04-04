@@ -20,7 +20,7 @@ time.sleep(2)
 print("So now", var1, "has a value of", var2)
 time.sleep(2)
 print("well.. what else can you do with it? make a calculator of course!")
-print("-----------------------------------------------------------------")     f
+print("-----------------------------------------------------------------")
 print("First we will start out with 2 variables, a and b. for this we will be making an addition calculator. we can recieve input with `input()` so we can gather the numbers.")
 print("A")
 a = int(input())
